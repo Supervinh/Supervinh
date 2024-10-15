@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinh</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [nothing (comming soon)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 🔭 I’m currently working on [nothing (coming soon)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 🌱 I’m currently learning **many things**
 
